@@ -1,8 +1,5 @@
 # Sales Analysis Dashboard (2019–2022)
 
-![Screenshot 2025-05-21 115836](https://github.com/user-attachments/assets/5ea9e83a-dff3-4557-a842-97eef764951e)
-
-
 ### Project Objective:
 
 Sales Analysis Dashboard (2019–2022)
@@ -16,6 +13,9 @@ Identify top-performing products and customers.
 Understand regional and category-wise profit contributions.
 
 Drive strategic decision-making with data-backed insights.
+
+
+![Screenshot 2025-05-21 115836](https://github.com/user-attachments/assets/5ea9e83a-dff3-4557-a842-97eef764951e)
 
 #### Dataset Used:
 
