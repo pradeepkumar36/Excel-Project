@@ -14,6 +14,7 @@ Understand regional and category-wise profit contributions.
 
 Drive strategic decision-making with data-backed insights.
 
+#### Dashboard :
 
 ![Screenshot 2025-05-21 115836](https://github.com/user-attachments/assets/5ea9e83a-dff3-4557-a842-97eef764951e)
 
